@@ -38,7 +38,7 @@ Models are fed each test as input and produce an output. The output is compared 
 
 ## Reference
 
-If you use the code or data in this repo, please cite our paper as:
+If you use the code or data in this repo, please cite [our paper](https://aclanthology.org/2023.acl-long.396/) as:
 
 ```
 @inproceedings{hlavnova-ruder-2023-empowering,
